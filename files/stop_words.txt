@@ -1,0 +1,4 @@
+silence_detected
+stop
+enough
+ok
