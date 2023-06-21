@@ -1,4 +1,4 @@
-# audiodox
+# Audiodox
 
 #DONE
 - Voice recognition using whisper
