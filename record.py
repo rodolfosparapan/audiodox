@@ -47,3 +47,4 @@ class AudioRecorder:
         wf.setframerate(self.sample_rate)
         wf.writeframes(b''.join(self.frames))
         wf.close()
+        self.frames = []
