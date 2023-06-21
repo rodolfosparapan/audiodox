@@ -4,7 +4,7 @@
 - Voice recognition using whisper
 - Keywords to start and stop audio records
 - Silent detected to stop an audio record
-- Dinamic audio name to identify the record type
+- Dinamic audio name with timestamp for recorded audios
 
 #NEXT STEPS
 - Add a video recorder feature
